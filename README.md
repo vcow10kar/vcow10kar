@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I'm Vaishnavi Kawthankar
+
+- Aspiring Web Developer
+- Currently learning the MERN Stack
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-kawthankar/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/vcow10kar)
 
 <!--
 **vcow10kar/vcow10kar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
