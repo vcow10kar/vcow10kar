@@ -18,8 +18,8 @@
 ![Redis_Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Featured Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=seekho-project)](https://github.com/vcow10kar/seekho-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=construct_week_2)](https://github.com/akhilsdeportfolio/construct_week_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=seekho-project&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/vcow10kar/seekho-project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilsdeportfolio&repo=construct_week_2&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/akhilsdeportfolio/construct_week_2)
 
 <!-- ### GitHub Stats:
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=vcow10kar&theme=tokyonight_duo&hide_border=true&bg_color=0D1117") -->
