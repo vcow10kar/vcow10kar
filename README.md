@@ -22,8 +22,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=seekho-project)](https://github.com/vcow10kar/seekho-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=construct_week_2)](https://github.com/akhilsdeportfolio/construct_week_2)
 
-### GitHub Stats:
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=vcow10kar&theme=tokyonight_duo&hide_border=true&bg_color=0D1117")
+<!-- ### GitHub Stats:
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=vcow10kar&theme=tokyonight_duo&hide_border=true&bg_color=0D1117") -->
 
 ### I'm known as _vcow10kar_ around the web 🌏
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-kawthankar/)
