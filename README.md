@@ -1,5 +1,4 @@
-## Hello World! 👋
-## I'm Vaishnavi     
+<img src = "/src/gifs/header.gif"/>
 
 - 🎯 Aspiring Full Stack Web Developer
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms**
