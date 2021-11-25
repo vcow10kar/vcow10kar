@@ -17,9 +17,9 @@
 <!-- ![TailwindCSS_Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 <!-- ![StyledComponents_Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) -->
 
-### Featured Repositories:
+<!-- ### Featured Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vcow10kar&repo=seekho-project&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/vcow10kar/seekho-project) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilsdeportfolio&repo=construct_week_2&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/akhilsdeportfolio/construct_week_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilsdeportfolio&repo=construct_week_2&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/akhilsdeportfolio/construct_week_2) -->
 
 <!-- ### GitHub Stats:
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=vcow10kar&theme=tokyonight_duo&hide_border=true&bg_color=0D1117") -->
