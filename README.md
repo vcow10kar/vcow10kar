@@ -1,6 +1,6 @@
 <img src = "/src/gifs/header.gif"/>
 
-- 🎯 Aspiring Full Stack Web Developer
+- 🎯 Full Stack Web Developer
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms**
 - :bow_and_arrow: Currently building [Seekho](https://github.com/vcow10kar/seekho-project) E-Library Web Application
 
