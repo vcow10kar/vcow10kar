@@ -4,7 +4,7 @@
 I’m a budding full stack web developer, currently tinkering with the MERN stack. I enjoy the process of strategic planning and development that goes into creating a solid foundation for a project. 
 With each new project I work on - I aim to create a website that engages the user, provides a seamless experience and also improve my ability to write clean and elegant code.
 
-- 🎯 Full Stack Web Developer
+<!-- - 🎯 Full Stack Web Developer -->
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
 - :bow_and_arrow: Currently building [Seekho](https://github.com/vcow10kar/seekho-project) E-Library Web Application
 
