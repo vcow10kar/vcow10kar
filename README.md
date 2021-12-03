@@ -4,12 +4,20 @@
 I’m a budding full stack web developer, currently tinkering with the MERN stack. I enjoy the process of strategic planning and development that goes into creating a solid foundation for a project. 
 With each new project I work on - I aim to create a website that engages the user, provides a seamless experience and also improve my ability to write clean and elegant code.
 
+
+<a href="https://vaishnavi-kawthankar.vercel.app/" rel="noopener noreferrer" target="_blank">
+    Visit my website
+</a>
+
+<hr/>
+
 <!-- - 🎯 Full Stack Web Developer -->
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
 - :bow_and_arrow: Currently building [Seekho](https://github.com/vcow10kar/seekho-project) E-Library Web Application
 
+<hr/>
 
-### Languages and Tools:
+#### Languages and Tools:
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React_Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -28,7 +36,7 @@ With each new project I work on - I aim to create a website that engages the use
 <!-- ### GitHub Stats:
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=vcow10kar&theme=tokyonight_duo&hide_border=true&bg_color=0D1117") -->
 
-### I'm known as _vcow10kar_ around the web 🌏
+#### I'm known as _vcow10kar_ around the web 🌏
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-kawthankar/)
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vcow10kar) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vcow10kar) 
