@@ -5,7 +5,7 @@ I’m a budding full stack web developer, currently tinkering with the MERN stac
 With each new project I work on - I aim to create a website that engages the user, provides a seamless experience and also improve my ability to write clean and elegant code.
 
 
-<a href="https://vaishnavi-kawthankar.vercel.app/" rel="noopener noreferrer" target="_blank">
+<a href="https://vaishnavi-kawthankar.vercel.app/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a>
 
