@@ -1,4 +1,4 @@
-<img src = "/src/gifs/header-file.gif"/>
+<img src = "/src/gifs/header-file-yellow.gif"/>
 
 
 I’m a budding full stack web developer, currently tinkering with the MERN stack. I enjoy the process of strategic planning and development that goes into creating a solid foundation for a project. 
