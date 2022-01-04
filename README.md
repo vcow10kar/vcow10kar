@@ -13,7 +13,7 @@ With each new project I work on - I aim to create a website that engages the use
 
 <!-- - 🎯 Full Stack Web Developer -->
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
-- :bow_and_arrow: Currently building [Seekho](https://github.com/vcow10kar/seekho-project) E-Library Web Application
+- :bow_and_arrow: Currently building [Erudite](https://github.com/vcow10kar/erudite-client) - a web application for a Student Management System
 
 <hr/>
 
