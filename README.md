@@ -9,13 +9,16 @@ With each new project I work on - I aim to create a website that engages the use
     Visit my website
 </a>
 
+<!--
 <hr/>
 
-<!-- - 🎯 Full Stack Web Developer -->
-- 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
+- 🎯 Full Stack Web Developer
+- 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School** 
 - :bow_and_arrow: Currently building [Erudite](https://github.com/vcow10kar/erudite-client) - a web application for a Student Management System
 
+
 <hr/>
+-->
 
 #### Languages and Tools:
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
