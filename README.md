@@ -1,13 +1,13 @@
 <img src = "/src/gifs/header-file-yellow.gif"/>
 
 
-I’m a budding full stack web developer, currently tinkering with the MERN stack. I enjoy the process of strategic planning and development that goes into creating a solid foundation for a project. 
-With each new project I work on - I aim to create a website that engages the user, provides a seamless experience and also improve my ability to write clean and elegant code.
+<!-- I’m a budding full stack web developer, currently tinkering with the MERN stack. I enjoy the process of strategic planning and development that goes into creating a solid foundation for a project. 
+With each new project I work on - I aim to create a website that engages the user, provides a seamless experience and also improve my ability to write clean and elegant code. -->
 
 
-<a href="https://vaishnavi-kawthankar.vercel.app/" target="_blank" rel="noopener noreferrer" >
+<!-- <a href="https://vaishnavi-kawthankar.vercel.app/" target="_blank" rel="noopener noreferrer" >
     Visit my website
-</a>
+</a> -->
 
 <!--
 <hr/>
